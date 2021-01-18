@@ -10,4 +10,6 @@ public class Line {
 		return a*x+b;
 	}
 
+	//tusikon
+
 }
