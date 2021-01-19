@@ -20,9 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1127d1e7-8a27-4ed8-a377-0452775ddff9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/StatLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/StatLib.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../mgd" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -102,7 +102,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610977244651</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="milestone 1">
+      <created>1611060162469</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1611060162469</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,17 +131,18 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="first commit2" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit2" />
+    <MESSAGE value="milestone 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="milestone 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610978537675">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1610978537675" />
-    <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1611060143687">
+    <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1611060161641">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
-    <state x="289" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1611060143687" />
+    <state x="289" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1611060161641" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610977243484" />
     <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1611060143768">
       <screen x="0" y="0" width="1280" height="689" />
