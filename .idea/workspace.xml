@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d31e54e7-3935-42af-82f7-dfe6d3e22dd3" name="Default Changelist" comment="" />
+    <list default="true" id="1127d1e7-8a27-4ed8-a377-0452775ddff9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/StatLib.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/StatLib.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +55,30 @@
       <recent name="C:\Users\dvir\Downloads\Patam1" />
     </key>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="RunManager">
+    <configuration name="MainTrain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.MainTrain" />
+      <module name="Patam1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.MainTrain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d31e54e7-3935-42af-82f7-dfe6d3e22dd3" name="Default Changelist" comment="" />
@@ -86,7 +113,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -98,10 +127,47 @@
     <option name="LAST_COMMIT_MESSAGE" value="first commit2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="308" y="0" key="CommitChangelistDialog2" timestamp="1610977243484">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610978537675">
+      <screen x="0" y="0" width="1280" height="689" />
     </state>
+    <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1610978537675" />
+    <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1611060143687">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="289" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1611060143687" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610977243484" />
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1611060143768">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1611060143768" />
+    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1611060143767">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1611060143767" />
+    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1611060143765">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1611060143765" />
+    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1611060143767">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1611060143767" />
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1610978704579">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
+    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1610978704579">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
+    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1610978704579">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
+    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1610978704579">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
     <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1610977283497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -114,5 +180,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610977047978" />
+    <state x="297" y="153" key="run.anything.popup" timestamp="1610981074057">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1610981074057" />
   </component>
 </project>
