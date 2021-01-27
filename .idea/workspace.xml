@@ -16,11 +16,47 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:dvir_branch" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1127d1e7-8a27-4ed8-a377-0452775ddff9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/.idea/Patam1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/Patam1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/AnomalyReport.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/CorrelatedFeatures.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/Line.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/MainTrain.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/Point.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/SimpleAnomalyDetector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/StatLib.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/TimeSeries.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/test/TimeSeriesAnomalyDetector.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/testFile1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Patam1/trainFile1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AnomalyReport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/CorrelatedFeatures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SimpleAnomalyDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TimeSeries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/TimeSeriesAnomalyDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testFile1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/trainFile1.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Line.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Line.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/MainTrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MainTrain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Point.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Point.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +64,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nFAab6HzJGjAdZjVgk1UHQRLx5" />
@@ -40,7 +81,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mgd" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -75,13 +116,13 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d31e54e7-3935-42af-82f7-dfe6d3e22dd3" name="Default Changelist" comment="" />
+      <changelist id="1127d1e7-8a27-4ed8-a377-0452775ddff9" name="Default Changelist" comment="" />
       <created>1610975530053</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -121,12 +162,23 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="COLUMN_ORDER" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="dvir_branch" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
@@ -135,47 +187,75 @@
     <option name="LAST_COMMIT_MESSAGE" value="milestone 1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611190071887">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1611190071887" />
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611189960379">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1611189960379" />
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1611665398894">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1611665398894" />
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611190070301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1611190070301" />
     <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1610978537675">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="490" y="234" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.689@0.0.1280.689" timestamp="1610978537675" />
+    <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1611665402736">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="479" y="271" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1366.728@0.0.1366.728" timestamp="1611665402736" />
     <state x="289" y="0" key="CommitChangelistDialog2" timestamp="1611060161641">
       <screen x="0" y="0" width="1280" height="689" />
     </state>
     <state x="289" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1611060161641" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610977243484" />
-    <state width="1237" height="166" key="GridCell.Tab.0.bottom" timestamp="1611060143768">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1611758038994">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1611060143768" />
-    <state width="1237" height="166" key="GridCell.Tab.0.center" timestamp="1611060143767">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611758038994" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1611758038994">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1611060143767" />
-    <state width="1237" height="166" key="GridCell.Tab.0.left" timestamp="1611060143765">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1611758038994" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1611758038994">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1611060143765" />
-    <state width="1237" height="166" key="GridCell.Tab.0.right" timestamp="1611060143767">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1611758038994" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1611758038994">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1611060143767" />
-    <state width="1237" height="208" key="GridCell.Tab.1.bottom" timestamp="1610978704579">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1611758038994" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1611661780429">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
-    <state width="1237" height="208" key="GridCell.Tab.1.center" timestamp="1610978704579">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1611661780429" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1611661780429">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
-    <state width="1237" height="208" key="GridCell.Tab.1.left" timestamp="1610978704579">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1611661780429" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1611661780429">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
-    <state width="1237" height="208" key="GridCell.Tab.1.right" timestamp="1610978704579">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1611661780429" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1611661780429">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1611661780429" />
     <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1610977283497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -184,13 +264,50 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610976063779" />
+    <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1611275656678">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="691" height="372" key="XDebugger.FullValuePopup/0.0.1366.728@0.0.1366.728" timestamp="1611275656678" />
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610977047978">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="500" y="278" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1610977047978" />
-    <state x="297" y="153" key="run.anything.popup" timestamp="1610981074057">
-      <screen x="0" y="0" width="1280" height="689" />
+    <state x="390" y="0" width="585" height="728" key="find.popup" timestamp="1611665421113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="0" width="585" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1611665421113" />
+    <state x="482" y="265" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1611758143588">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="482" y="265" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1366.728@0.0.1366.728" timestamp="1611758143588" />
+    <state x="317" y="162" width="672" height="677" key="run.anything.popup" timestamp="1611500795856">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="297" y="153" key="run.anything.popup/0.0.1280.689@0.0.1280.689" timestamp="1610981074057" />
+    <state x="317" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1611500795856" />
+    <state x="475" y="223" key="scopes" timestamp="1611665366176">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="223" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1611665366176" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1611537972575">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1611537972575" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/MainTrain.java</url>
+          <line>96</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/SimpleAnomalyDetector.java</url>
+          <line>79</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
