@@ -311,6 +311,7 @@ public class Commands {
 
 		@Override
 		public void execute() {
+			dio.write("bye");
 			dio.close();
 		}
 	}

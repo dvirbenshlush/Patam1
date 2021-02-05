@@ -26,16 +26,15 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1127d1e7-8a27-4ed8-a377-0452775ddff9" name="Default Changelist" comment="">
+    <list default="true" id="1127d1e7-8a27-4ed8-a377-0452775ddff9" name="Default Changelist" comment="milestone 3-dvir version">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Patam1/test/CorrelatedFeatures.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patam1/test/CorrelatedFeatures.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Patam1/test/MainTrain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patam1/test/MainTrain.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Patam1/test/SimpleAnomalyDetector.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patam1/test/SimpleAnomalyDetector.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Patam1/testFile1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patam1/testFile1.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Patam1/trainFile1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Patam1/trainFile1.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/CorrelatedFeatures.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/CorrelatedFeatures.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/Commands.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/Commands.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/MainTrain.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MainTrain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SimpleAnomalyDetector.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SimpleAnomalyDetector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testFile1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/testFile1.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/trainFile1.csv" beforeDir="false" afterPath="$PROJECT_DIR$/trainFile1.csv" afterDir="false" />
     </list>
@@ -47,7 +46,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dvir_branch" />
+        <entry key="$PROJECT_DIR$" value="mileStone3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -134,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611060162469</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="milestone 3-dvir version">
+      <created>1612453518372</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612453518372</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,7 +174,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="first commit2" />
     <MESSAGE value="milestone 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="milestone 1" />
+    <MESSAGE value="milestone 3-dvir version" />
+    <option name="LAST_COMMIT_MESSAGE" value="milestone 3-dvir version" />
   </component>
   <component name="WindowStateProjectService">
     <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611190071887">
@@ -179,6 +186,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="450" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1611189960379" />
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser" timestamp="1612484152018">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="70" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1612484152018" />
     <state x="413" y="140" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1611665398894">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -200,54 +211,54 @@
     </state>
     <state x="289" y="0" key="CommitChangelistDialog2/0.0.1280.689@0.0.1280.689" timestamp="1611060161641" />
     <state x="308" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1610977243484" />
-    <state width="1323" height="130" key="GridCell.Tab.0.bottom" timestamp="1612434349986">
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom" timestamp="1612485047374">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="166" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1611060143768" />
-    <state width="1323" height="130" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612434349986" />
-    <state width="1323" height="130" key="GridCell.Tab.0.center" timestamp="1612434349986">
+    <state width="1323" height="176" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612485047374" />
+    <state width="1323" height="176" key="GridCell.Tab.0.center" timestamp="1612485047373">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="166" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1611060143767" />
-    <state width="1323" height="130" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612434349986" />
-    <state width="1323" height="130" key="GridCell.Tab.0.left" timestamp="1612434349986">
+    <state width="1323" height="176" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1612485047373" />
+    <state width="1323" height="176" key="GridCell.Tab.0.left" timestamp="1612485047373">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="166" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1611060143765" />
-    <state width="1323" height="130" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612434349986" />
-    <state width="1323" height="130" key="GridCell.Tab.0.right" timestamp="1612434349986">
+    <state width="1323" height="176" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1612485047373" />
+    <state width="1323" height="176" key="GridCell.Tab.0.right" timestamp="1612485047374">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="166" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1611060143767" />
-    <state width="1323" height="130" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612434349986" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1612404148296">
+    <state width="1323" height="176" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1612485047374" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1612483524010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
-    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612404148296" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1612404148296">
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1612483524010" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1612483524010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
-    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1612404148296" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1612404148296">
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1612483524010" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1612483524010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
-    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1612404148296" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1612404148296">
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1612483524010" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1612483524010">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1237" height="208" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1610978704579" />
-    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1612404148296" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1612483524010" />
     <state x="321" y="125" key="MultipleFileMergeDialog" timestamp="1610977283497">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="125" key="MultipleFileMergeDialog/0.0.1366.728@0.0.1366.728" timestamp="1610977283497" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1610976063779">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1612453531358">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1610976063779" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1612453531358" />
     <state width="691" height="372" key="XDebugger.FullValuePopup" timestamp="1611275656678">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -282,14 +293,14 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/test/MainTrain.java</url>
-          <line>42</line>
-          <option name="timeStamp" value="71" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/test/Commands.java</url>
           <line>268</line>
           <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/test/MainTrain.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="85" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
