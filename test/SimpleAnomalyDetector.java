@@ -21,6 +21,7 @@ public class SimpleAnomalyDetector implements TimeSeriesAnomalyDetector {
 	public List<CorrelatedFeatures> cf = new  ArrayList();
 	public List<AnomalyReport> ar = new  ArrayList();
 	public List<usefulFeatures> usef = new  ArrayList();
+	public float rightThreshold = (float)0.9;
 
 	@Override
 	public void learnNormal(TimeSeries ts) {
@@ -47,7 +48,7 @@ public class SimpleAnomalyDetector implements TimeSeriesAnomalyDetector {
 				{
 					String fI = (headers[i]);
 					String fJ = (headers[j]);
-					if (StatLib.pearson(matrix[i],matrix[j]) > 0.9)
+					if (StatLib.pearson(matrix[i],matrix[j]) > rightThreshold)
 					{
 						Point pointIJ[] = new Point[tableSize-1];
 						for (int k = 0; k < tableSize-1; k++) {

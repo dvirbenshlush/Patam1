@@ -1,5 +1,5 @@
 package test;
-
+import java.io.*;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -39,6 +39,8 @@ public class MainTrain {
 	
 	public static void main(String[] args) {
 		FileIO fio=new FileIO("input.txt", "output.txt");
+		//standardIO fio=new standardIO();
+
 		CLI cli=new CLI(fio);
 		cli.start();
 		fio.close();
